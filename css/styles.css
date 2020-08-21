@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+ }
+
+ h1{
+ 	text-align: center;
+ }
+
+ .navbar-brand{
+ 	padding-top: 25px;
+ }
+
+.navbar-header, .navbar-brand a{
+	text-transform: uppercase;
+	color: black;
+	padding-top: auto;
+	padding-bottom: auto;
+	font-size: 1.5em;
+	font-family: lucida console;
+}
+
+.jumbotron{
+	background-color: #AAAAAA;
+}
+
+.jumbotron h2{
+	text-align: center;
+	color: black;
+}
+
+.jumbotron p{
+	color: black;
+}
+
+#nav-list {
+  margin-top: 10px;
+  background-color: gray;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: gray;
+}
+
+#nav-list a{
+  font-size: 1.8em;
+}
+hr{
+	height: 5px;
+}
